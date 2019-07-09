@@ -1,0 +1,65 @@
+[
+    {
+        "Id": 1,
+        "Image":"food-image-1.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur.",
+        "Price":"40kn"
+    },
+    {
+        "Id": 2,
+        "Image":"food-image-2.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur. Sed at lacus nec turpis fringilla scelerisque. Donec vestibulum vitae ante vel viverra.",
+        "Price":"35kn"
+    },
+    {
+        "Id": 3,
+        "Image":"food-image-3.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur. Sed at lacus nec turpis fringilla scelerisque. Donec vestibulum vitae ante vel viverra.",
+        "Price":"50kn"
+    },
+    {
+        "Id": 4,
+        "Image":"food-image-4.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur. Sed at lacus nec turpis fringilla scelerisque. Donec vestibulum vitae ante vel viverra.",
+        "Price":"50kn"
+    },
+    {
+        "Id": 5,
+        "Image":"food-image-5.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur.",
+        "Price":"50kn"
+    },
+    {
+        "Id": 6,
+        "Image":"food-image-6.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur. Sed at lacus nec turpis fringilla scelerisque. Donec vestibulum vitae ante vel viverra. Etiam porttitor porttitor tellus at porta. Integer molestie sit amet nulla eget hendrerit. Integer non neque sagittis, tincidunt dui et, vehicula enim.",
+        "Price":"50kn"
+    },
+    {
+        "Id": 7,
+        "Image":"food-image-7.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur. Sed at lacus nec turpis fringilla scelerisque.",
+        "Price":"50kn"
+    },
+    {
+        "Id": 8,
+        "Image":"food-image-8.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur.",
+        "Price":"50kn"
+    },
+    {
+        "Id": 9,
+        "Image":"food-image-9.jpeg",
+        "Title":"Lorem Ipsum",
+        "Description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel metus porta, tempor quam sed, pretium sapien. Cras vulputate luctus lectus nec efficitur. Sed at lacus nec turpis fringilla scelerisque. Donec vestibulum vitae ante vel viverra. Etiam porttitor porttitor tellus at porta.",
+        "Price":"50kn"
+    }
+]

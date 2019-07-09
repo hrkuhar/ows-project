@@ -1,0 +1,21 @@
+.about-us-page{
+    background-color: orange;
+    grid-area: content;
+    padding: 30px;
+}
+
+.content-container{
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    max-width: 900px;
+    border-radius: 10px;
+}
+
+.about-text{
+    color: white;
+}

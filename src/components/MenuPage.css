@@ -1,0 +1,54 @@
+.menu-page{
+    background-color: green;
+    grid-area: content;
+}
+
+.menu-items{
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.menu-item{
+    display: flex;
+    max-width: 400px;
+    flex-direction: column;
+    padding: 10px;
+    margin: 20px;
+    background-color: orange;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+
+.menu-item-image{
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.menu-item-content{
+    width: 100%;
+    text-align: center;
+}
+
+.menu-item-name{
+    color: green;
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.menu-item-description{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.menu-item-price{
+    color: green;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
